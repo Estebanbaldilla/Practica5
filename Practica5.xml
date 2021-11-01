@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/elEst/Desktop/9no semestre/Servicios web/Practica5_A170049/Practica5.xsl"?>
+<celulares>
+<celular>
+<modelo>Nokia 1</modelo>
+<memoria>16GB</memoria>
+<ram>2GB</ram>
+</celular>
+<celular>
+<modelo>Samsumg s10</modelo>
+<memoria>64GB</memoria>
+<ram>4GB</ram>
+</celular>
+<celular>
+<modelo>Xiaomi poco x3</modelo>
+<memoria>128GB</memoria>
+<ram>6GB</ram>
+</celular>
+</celulares>
